@@ -1,7 +1,6 @@
-bebf18c5d1	SPORT	Ferri Eget Dictum	2	18
-ba55aaf540	INTERNATIONAL	Quidam Ante	2	18
-6a56f46a9b	LOCAL	Qui Civibus	2	16
-926dd513cb	LOCAL	Vim Integer Simul ius Nascetur	2	12
-767cc0b81e	LOCAL	Equidem Habitant Aliquid	2	11
-a7e9ea0138	SOCIAL	Per mea Prodesset	2	11
-3a2ae48c43	SOCIAL	Tamquam Invenire Adipisci Vestibulum	2	9
+b8c9c385f8	SPORT	Brute Commodo Inceptos	2	18
+88c55e4464	LOCAL	Erat Consetetur Tation	2	15
+ec5e943f60	LOCAL	Habemus Tempor Habemus usu	2	11
+c56b10c580	INTERNATIONAL	Signiferumque Tale Facilis Ponderum Viverra	2	8
+bf9f08b8c4	SPORT	Tellus Brute Dicam Adipisci	2	7
+092e9f8439	INTERNATIONAL	Mentitum Simul Salutatus	2	4
