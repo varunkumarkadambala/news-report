@@ -1,0 +1,7 @@
+bebf18c5d1	SPORT	Ferri Eget Dictum	2	18
+ba55aaf540	INTERNATIONAL	Quidam Ante	2	18
+6a56f46a9b	LOCAL	Qui Civibus	2	16
+926dd513cb	LOCAL	Vim Integer Simul ius Nascetur	2	12
+767cc0b81e	LOCAL	Equidem Habitant Aliquid	2	11
+a7e9ea0138	SOCIAL	Per mea Prodesset	2	11
+3a2ae48c43	SOCIAL	Tamquam Invenire Adipisci Vestibulum	2	9
