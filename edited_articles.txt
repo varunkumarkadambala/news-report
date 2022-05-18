@@ -1,6 +1,5 @@
-b8c9c385f8	SPORT	Brute Commodo Inceptos	2	18
-88c55e4464	LOCAL	Erat Consetetur Tation	2	15
-ec5e943f60	LOCAL	Habemus Tempor Habemus usu	2	11
-c56b10c580	INTERNATIONAL	Signiferumque Tale Facilis Ponderum Viverra	2	8
-bf9f08b8c4	SPORT	Tellus Brute Dicam Adipisci	2	7
-092e9f8439	INTERNATIONAL	Mentitum Simul Salutatus	2	4
+dcac5c33f7	LOCAL	Interpretaris Lacus Augue	2	19
+14dbac7197	SPORT	Fuisset Posidonium Novum Nullam Varius	2	17
+93604fcbfd	INTERNATIONAL	Lectus Idque Vidisse Dolore Gravida	2	11
+7fa700f125	SPORT	Ubique Audire Etiam Sollicitudin Detracto	2	10
+27fac649cf	SPORT	Explicari Nisl	2	9

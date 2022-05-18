@@ -16,23 +16,29 @@ public class Main {
 
     // Call News Service URL
     public static String callNewsService(String newsServiceURL) throws IOException {
+
         URL url = new URL(newsServiceURL);
         HttpURLConnection con = (HttpURLConnection) url.openConnection();
         con.setRequestMethod("GET");
         con.setRequestProperty("Content-Type", "application/json");
         con.setConnectTimeout(connectTimeout);
         con.setReadTimeout(readTimeout);
-        BufferedReader in = new BufferedReader(
-                new InputStreamReader(con.getInputStream()));
 
         String inputLine;
         StringBuffer response = new StringBuffer();
-        while ((inputLine = in.readLine()) != null) {
-            response.append(inputLine);
-        }
-        in.close();
 
-        con.disconnect();
+        try{
+            BufferedReader in = new BufferedReader(
+                    new InputStreamReader(con.getInputStream()));
+
+            while ((inputLine = in.readLine()) != null) {
+                response.append(inputLine);
+            }
+            in.close();
+            con.disconnect();
+        } finally {
+            System.out.println("Failed execution at http get input stream");
+        }
 
         return String.valueOf(response);
     }
