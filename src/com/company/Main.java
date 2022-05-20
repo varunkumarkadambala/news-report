@@ -36,8 +36,11 @@ public class Main {
             }
             in.close();
             con.disconnect();
-        } finally {
-            System.out.println("Failed execution at http get input stream");
+        } catch (IOException e){
+            System.out.println("Failed execution at http get input stream with error " + e);
+        }
+        finally {
+            System.out.println("Completed http input stream");
         }
 
         return String.valueOf(response);

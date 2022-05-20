@@ -1,5 +1,4 @@
-dcac5c33f7	LOCAL	Interpretaris Lacus Augue	2	19
-14dbac7197	SPORT	Fuisset Posidonium Novum Nullam Varius	2	17
-93604fcbfd	INTERNATIONAL	Lectus Idque Vidisse Dolore Gravida	2	11
-7fa700f125	SPORT	Ubique Audire Etiam Sollicitudin Detracto	2	10
-27fac649cf	SPORT	Explicari Nisl	2	9
+8183d59554	SPORT	Maecenas Facilisi Dignissim	2	17
+263ae1d3be	LOCAL	Scelerisque Ludus Tempus	2	16
+abcb5b3571	LOCAL	Alienum Graeco qui Nihil	2	10
+dd026b8790	SPORT	Splendide Hendrerit	2	5
